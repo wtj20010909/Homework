@@ -1,0 +1,7 @@
+battery
+plastic bottle
+can
+fruit
+vegetable
+china
+cigarette
